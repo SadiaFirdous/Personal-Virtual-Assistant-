@@ -1,0 +1,49 @@
+a. Overview:
+The project is mainly divided into two parts:
+1.) Face Recognition: This part is divided as:
+
+• New User: As a new user using this application, you will
+need to register with the application by undergoing a face
+scan, which extracts features of your face and gives these
+sample data to the application to train them. These help
+the application in recognizing your face when using the
+application. The steps involved are:
+• Collect Data samples
+• Extract Face Features
+• Training of the data
+• Predicting the output
+
+• Old Users: User will have to just use their face to login
+into the account if recognized as the owner/user of the
+application, it unlocks and the user can use all the
+features available through voice commands.
+2.)Voice Based Control: After the user has logged into the
+application, he/she can avail all of the following lists of
+functionalities available as of now:
+• It tells you about the weather update when asked.
+• You can also ask about your location and it tells you
+about it.
+• You can even play music.
+• It helps you open various applications on your system like
+Notepad and Adobe Acrobat.
+• It can also tell meaning, antonym and synonym of a word
+when asked upon.
+
+6
+
+• It also helps you perform os based task like it informs you
+about the battery of your system.
+• It can also help you translate from one English language
+to Hindi.
+• It can instantly perform mathematical operations.
+• It can also tells about your internet speed
+• You can ask to tell jokes also
+• You can take screenshots also
+
+b. Objectives:
+The objective of this project is to develop a voice-based
+assistant integrated with face recognition feature that helps you to
+personalize your experience of using a virtual assistant.
+The application aims at easing your everyday tasks which can be
+automated using voice commands like checking of the weather or
+finding the meaning of a word.
